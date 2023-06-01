@@ -1,0 +1,4 @@
+KR12345 Ford Focus 2018 Czarny 50000
+WA98765 Audi A4 2020 Srebrny 10000
+WPI4298 Mercedes GLS 2023 Bialy 13000
+WL32113 Ford Mondeo 2003 Czarny 3300
